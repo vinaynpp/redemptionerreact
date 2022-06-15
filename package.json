@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-plugin-relay": "^14.0.0",
+    "react-router-dom": "^6.3.0"
+  }
+}
